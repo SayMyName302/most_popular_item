@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "555708727615",
+    "project_id": "tesapp-2aceb",
+    "storage_bucket": "tesapp-2aceb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555708727615:android:53d4154df8747a3584538a",
+        "android_client_info": {
+          "package_name": "com.example.popular"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555708727615-phs6g9t6bd6ksbm5add8biv1ma1ufodn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtCUFvV5LSpfHDvKtEZ-xPn4GRiZZH-vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555708727615-phs6g9t6bd6ksbm5add8biv1ma1ufodn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "555708727615-jh2f9duoqu13ru65grka7r73a0sv0mli.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.popular.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
